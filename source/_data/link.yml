@@ -1,0 +1,16 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事~
+  link_list:
+    - name: 虚席以待
+      link: 
+      avatar: https://img.pandior.ink/newspaper.png
+      descr: 虚席以待...
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: bilibili
+      link: https://www.bilibili.com
+      avatar: https://img.pandior.ink/bilibili.png
+      descr: 最大同性交友网站
+
