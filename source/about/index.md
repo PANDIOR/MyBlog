@@ -7,11 +7,11 @@ top_img: https://img.pandior.ink/ducks-6480791.jpg
 
 ## Hello World..
 
-I am Diao Chenhao. I have been working in Samsung Electronic(China) R&D Center as a Software Development Engineer.
+I am Diao Chenhao. I have been working in Samsung Electronic(China) R&D Center as a Software Development Engineer. 1
 
 ## Education
 
-- **<font>B.Sc.</font> (Honors)** in Electronic Information Engineering (joint program with University of Chinese Academy of Sciences), Nanjing University of Information Science & Technology, Sep. 2018 - Jul. 2022
+- <b><font>B.</font>Sc. (Honors)</b> in Electronic Information Engineering (joint program with University of Chinese Academy of Sciences), Nanjing University of Information Science & Technology, Sep. 2018 - Jul. 2022
   - Rank: No.1 (GPA: 4.14/5.00)
   - Study in Changwang School of Honors
 
