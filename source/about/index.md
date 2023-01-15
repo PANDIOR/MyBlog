@@ -11,7 +11,7 @@ I am Diao Chenhao. I have been working in Samsung Electronic(China) R&D Center a
 
 ## Education
 
-- **<font>B.Sc.</font>** in Electronic Information Engineering (joint program with University of Chinese Academy of Sciences), Nanjing University of Information Science & Technology, Sep. 2018 - Jul. 2022
+- **<font>B.Sc.</font> (Honors)** in Electronic Information Engineering (joint program with University of Chinese Academy of Sciences), Nanjing University of Information Science & Technology, Sep. 2018 - Jul. 2022
   - Rank: No.1 (GPA: 4.14/5.00)
   - Study in Changwang School of Honors
 
